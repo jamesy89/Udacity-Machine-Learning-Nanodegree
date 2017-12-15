@@ -1,0 +1,7 @@
+My project is implemented using Jupyter notebook running on Python 2.7.
+The libraries used include the following:
+pandas - https://pandas.pydata.org
+numpy - http://www.numpy.org
+sklearn - http://scikit-learn.org/stable/
+matplotlib - https://matplotlib.org
+seaborn - https://seaborn.pydata.org
